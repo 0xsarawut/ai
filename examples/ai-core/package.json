@@ -42,7 +42,7 @@
     "dotenv": "16.4.5",
     "image-type": "^5.2.0",
     "mathjs": "14.0.0",
-    "sharp": "^0.33.5",
+    "sharp": "^0.35.4",
     "terminal-image": "^2.0.0",
     "zod": "3.25.76",
     "valibot": "^1.0.0-rc.0 || ^1.0.0"
